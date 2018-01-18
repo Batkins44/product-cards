@@ -1,0 +1,59 @@
+main{
+   
+}
+
+article {
+    border:1px solid lightblue;
+    max-width:30%;
+    text-align:center;
+    display:inline-block;
+    vertical-align: botttom;
+    margin:10px;
+    padding:20px;
+
+
+
+}
+
+h2{
+    border:1px dotted lightgray;
+}
+
+
+img {
+    max-width:40%;
+    max-height:40%;
+    margin-bottom:20px;
+
+}
+
+.description{
+    text-align:justify;
+}
+
+.availability{
+    background-color:lightgray;
+    margin-top:10px;
+    margin-left:-20px;
+    margin-right:-20px;f
+}
+
+.specs{
+    text-align:left;
+    font-weight:bold;
+}
+
+.specs div{
+    text-indent:4mm;
+}
+
+.invdate{
+    margin-top:7px;
+    font-size:12px;
+    font-style:italic;
+}
+
+.price{
+    text-align:left;
+    font-weight:bold;
+}
